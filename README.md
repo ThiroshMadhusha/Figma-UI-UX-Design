@@ -1,10 +1,22 @@
 # Figma-UI-UX-Design
 
+# ** View Full Designs Scroll Down **
+
 ### ** Step 01 **
 ## View Full UI/UX Designs
-## Use This Link -->>  https://www.figma.com/file/Gqfi59lbQdpX164HGXadnE/Error-503?node-id=318%3A5197&t=xvZb0wFOL8T3lKtU-1
+## -- Use This Link to View UI/UX Designs --
+Link 01 --> https://www.figma.com/file/Gqfi59lbQdpX164HGXadnE/Error-503?node-id=318%3A5197&t=xvZb0wFOL8T3lKtU-1
+
+## -- Use This Link to View Prototype --
+Link 02 --> https://www.figma.com/proto/Gqfi59lbQdpX164HGXadnE/Error-503?node-id=318%3A5197&scaling=scale-down&page-id=0%3A1&starting-point-node-id=73%3A1506&show-proto-sidebar=1
+
+or
 ### ** Step 02 **
-## Select 1-Homepage - Thirosh - IT20146238 Frame Layout and Press Present Button in top right corner. You can navigate with pages and view all project designs.
+#### --> Press Link 01. 
+#### --> Select 1-Homepage - Thirosh - IT20146238 Frame Layout 
+#### --> Press Present Button in top right corner. 
+You can navigate with pages and view all UI/UX prototype designs.
+
 
 ## Jayathunga T.M. - IT20146238 (Leader)
 
