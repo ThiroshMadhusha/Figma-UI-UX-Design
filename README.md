@@ -1,5 +1,10 @@
 # Figma-UI-UX-Design
 
+### ** Step 01 **
+## View Full UI/UX Designs
+## Use This Link -->>  https://www.figma.com/file/Gqfi59lbQdpX164HGXadnE/Error-503?node-id=318%3A5197&t=xvZb0wFOL8T3lKtU-1
+### ** Step 02 **
+## Select 1-Homepage - Thirosh - IT20146238 Frame Layout and Press Present Button in top right corner. You can navigate with pages and view all project designs.
 
 ## Jayathunga T.M. - IT20146238 (Leader)
 
